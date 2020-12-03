@@ -9,5 +9,6 @@ public class User {
         System.out.println("hello git hello world");
         System.out.println("111111");
         System.out.println("00000");
+        System.out.println("小明test 8888");
     }
 }
